@@ -95,7 +95,7 @@ Damini S
 Frontend Developer (Fresher)
 Passionate about clean UI, accessibility, and modern web design
 
-GitHub: https://github.com/Damini S
+GitHub: https://github.com/Damu987
 
 
 📄 License
